@@ -1,7 +1,7 @@
-title: Dan Xie
-author: Dan Xie
+title: "Dan Xie"
+author: "Dan Xie"
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
-description:  This is a personal website of Dan Xie. 
+description:  "This is a personal website of Dan Xie."
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
